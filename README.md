@@ -18,7 +18,7 @@
 Recently I am working at IFIC Bank as an Application Architect & Developer and develop web based software using PHP, Laravel, MySQL, JavaScript, Bootstrap.
 
 - 💬 Ask me about PHP, Laravel, WordPress and API development.
-- 📫 I am just one mail away - [abu.hasan.mahi at gmail dot com]
+- 📫 I am just one mail away - [abu.hasan.mahi@gmail.com]
 - 😄 Happy & Infinite 😄
 
 ### Numbers
